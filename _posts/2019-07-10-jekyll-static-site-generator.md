@@ -9,4 +9,4 @@ summary: Jekyll is a blog-aware static site generator. It can tranform plain tex
 Jekyll is a Ruby Gem. We need to install Ruby in order to use Jekyll.<br>
 To install Ruby and other requirments as per your Operating System follow this detailed guide: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
 
-[ << back to all posts](/blog)
+[ << back to all posts]({{ site.baseurl }}/blog)
