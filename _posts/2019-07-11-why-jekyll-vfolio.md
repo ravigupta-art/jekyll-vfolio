@@ -17,4 +17,4 @@ In order to update the video for sample video just change the  values of `videoI
 - No need to keep and maintain databases
 - Less burden on server as there is no databases.
 
-[ << back to all posts](/blog)
+[ << back to all posts]({{ site.baseurl }}/blog)
