@@ -1,0 +1,27 @@
+.navbar{
+  box-shadow: 1px 1px 3px $primary;
+  opacity: 1.0;
+  background: #000000;
+
+  .nav-item{
+    font-size: 1rem;
+    padding-right: 25px;
+  }
+}
+.nav-link {
+  color: $info !important;
+
+  &:hover {
+    color: $white !important;
+  }
+}
+.navbar-text{
+color:#ffffff !important;
+font-family:'Oswald', san-serif;
+font-size: 2rem;
+}
+@media (max-width:990px) {
+  .navbar-text{
+    font-size: 1.5rem;
+  }
+}

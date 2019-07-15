@@ -1,0 +1,20 @@
+.banner{
+  margin-top: 85px;
+  height: 220px;
+  background-color: $banner-bg;
+   width: 100%;
+}
+.banner-text{
+padding-top: 40px;
+color:#ffffff !important;
+font-family:'Oswald', san-serif;
+font-size: 4rem;
+}
+@media (max-width:450px) {
+  .banner-text{
+    font-size: 3rem;
+  }
+}
+.text-banner{
+  margin-top: 85px;
+}

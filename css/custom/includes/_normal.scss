@@ -1,0 +1,25 @@
+.text-title{
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.jumbotron, .jumbotron-fluid{
+  padding-bottom: 0.1rem;
+  margin-bottom: 1rem;
+}
+
+.card-padding
+{
+  padding-top: 20px;
+}
+
+  p > a {
+    color: #1a559d;
+    text-decoration: underline;
+    &:hover {
+      color: #000000;
+    }
+  }
+
+.centered {
+    text-align: center;
+}
