@@ -17,7 +17,7 @@ title: Jekyll-Vfolio
 email:
 author: Ravi Gupta
 description: Jekyll-Vfolio is a jekyll theme for showcasing a film/video/cinematography portfolio. You may edit it to suit your needs as well.
-url: "https://ravigupta-art/github.io/jekyll-vfolio" # The base hostname & protocol for your website. Right now its set for local development. Please change it at the time of deployment.
+url: "https://ravigupta-art.github.io/jekyll-vfolio" # The base hostname & protocol for your website. Right now its set for local development. Please change it at the time of deployment.
 baseurl: /jekyll-vfolio
 # The baseurl or the directory from where the site is hosted. Right now its set for the root directory. In case of GitHub Pages add '/repo-name' in front of 'baseurl:' without the quotes.
 # For example -
