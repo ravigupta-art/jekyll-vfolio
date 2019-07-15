@@ -13,4 +13,4 @@ Jekyll-Vfolio theme is create by Ravi Gupta. He is an Art director and a Designe
 >
 >  *Please feel free to contact for art and design projects. You may contact at [maildesk.ravi@gmail.com](mailto:maildesk.ravi@gmail.com)*.
 >
-[ << back to all posts](/blog)
+[ << back to all posts]({{ site.baseurl }}/blog)
