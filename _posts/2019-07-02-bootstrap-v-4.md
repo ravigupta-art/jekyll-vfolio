@@ -11,4 +11,4 @@ We use Bootstrap v4.3.1 to make jekyll-vfolio responsive and mobile-first. We me
 > - **Bootstrap 4 Tutorial by w3schools** - [https://www.w3schools.com/bootstrap4/](https://www.w3schools.com/bootstrap4/)
 >
 >
-[ << back to all posts](/blog)
+[ << back to all posts]({{ site.baseurl }}/blog)
