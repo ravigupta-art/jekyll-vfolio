@@ -1,0 +1,39 @@
+# Welcome to jekyll-vfolio theme!
+#
+# This config file is meant for settings that affect your whole website/blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Jekyll-Vfolio
+email:
+author: Ravi Gupta
+description: Jekyll-Vfolio is a jekyll theme for showcasing a film/video/cinematography portfolio. You may edit it to suit your needs as well.
+url: "http://localhost:4000/" # The base hostname & protocol for your website. Right now its set for local development. Please change it at the time of deployment.
+baseurl:   
+# The baseurl or the directory from where the site is hosted. Right now its set for the root directory. In case of GitHub Pages add '/repo-name' in front of 'baseurl:' without the quotes.
+# For example -
+# baseurl: /jekyll-vfolio
+
+# Build settings
+sass:
+  sass_dir: css
+
+# Social icons
+show_social_icons: true
+facebook_username: wowtheskyisblue
+youtube_username: channel/UChuSOIbZWOOapXTjtw33opw
+instagram_username: wowtheskyisblue
+
+# Plugins
+plugins: [jekyll-paginate]
+paginate: 5
+paginate_path: "/blog/page:num"
