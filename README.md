@@ -1,5 +1,6 @@
 # jekyll-vfolio
 Jekyll-Vfolio is a jekyll theme for showcasing a film/video/cinematography portfolio.
+![screenshot of the theme](/img/Screenshot01-jekyll-vfolio.png)
 ## Installing for local development
 
 1. Install Jekyll on your machine. You can install Jekyll using this guide: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
