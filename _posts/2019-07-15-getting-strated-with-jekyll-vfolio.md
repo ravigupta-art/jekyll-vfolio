@@ -49,4 +49,4 @@ The `'contact.md'`file controls the contact page. Find the following code in fil
 <img class="img-fluid center-block" src="/img/paperplane.png" aria-hidden="true" alt="">
 ```
 
-[ << back to all posts](/blog)
+[ << back to all posts]({{ site.baseurl }}/blog)
