@@ -1,0 +1,17 @@
+# Under each heading there is an option to embedd a video either from youtube or vimeo.
+# Use the value 'youtube' for youtube video or 'vimeo' for vimeo video in front of 'videotype:'. Note- values are case-sensitive
+# For example, for embeding a youtube video the code might look like below
+# videotype: youtube
+# After putting the appropriate value in front of 'videotype:'. We need to extract the 'VideoID:' from the video URL.
+# For example here is video URL of our sample video uploaded on youtube: https://www.youtube.com/watch?v=Ka8QpnRUAhA
+# It could be in the form of https://youtu.be/Ka8QpnRUAhA
+# VideoID in this case is Ka8QpnRUAhA
+# we just need to enter the videoID from the video link.
+- heading: SAMPLE FILM-REEL
+  subheading: Sample Youtube Video (Writer/Director/Editor)
+  videotype: youtube
+  videoID: Ka8QpnRUAhA
+- heading: SAMPLE FILM-REEL2
+  subheading: Sample Vimeo video (Writer/Director/Editor)
+  videotype: vimeo
+  videoID: 347893439

@@ -1,0 +1,44 @@
+# Under each heading there is an option to embedd a video either from youtube or vimeo.
+# Use the value 'youtube' for youtube video or 'vimeo' for vimeo video in front of 'videotype:'. Note- values are case-sensitive
+# For example, for embeding a youtube video the code might look like below
+# videotype: youtube
+# After putting the appropriate value in front of 'videotype:'. We need to extract the 'VideoID:' from the video URL.
+# For example here is video URL of our sample video uploaded on youtube: https://www.youtube.com/watch?v=Ka8QpnRUAhA
+# It could be in the form of https://youtu.be/Ka8QpnRUAhA
+# VideoID in this case is Ka8QpnRUAhA
+# we just need to enter the videoID from the video link.
+- videotitle: Sample Video (2019)
+  videodescription: This is a sample video description. Enter your desciption here using 'fiction-films.yml' in '_data' folder.
+  contrib: Producer | Writer | Director | Editor
+  Awards:
+    - award: "- Winner - Bronze Award for Best Sample Short at Jekyll-Vfolio Awards (2018)."
+    - award: "- Official Selection - Jekyll-Vfolio Festival (2017)."
+  videotype: youtube
+  videoID: Ka8QpnRUAhA
+- videotitle: Sample Video (2019)
+  videodescription: This is a sample video description. Enter your desciption here using 'fiction-films.yml' in '_data' folder.
+  contrib: Creator
+  Awards:
+    - award: "- Winner - Bronze Award for Best Sample Short at Jekyll-Vfolio Awards (2018)."
+    - award: "- Official Selection - Jekyll-Vfolio Festival (2017)."
+      awardinfo: Nominated for Best Short Film.
+  videotype: youtube
+  videoID: Ka8QpnRUAhA
+- videotitle: Sample Video (2019)
+  videodescription: This is a sample video description. Enter your desciption here using 'fiction-films.yml' in '_data' folder.
+  contrib: Creator
+  Awards:
+    - award: "- Winner - Bronze Award for Best Sample Short at Jekyll-Vfolio Awards (2018)."
+    - award: "- Official Selection - Jekyll-Vfolio Festival (2017)."
+      awardinfo: Nominated for Best Short Film.
+  videotype: vimeo
+  videoID: 347893439
+- videotitle: Sample Video (2019)
+  videodescription: This is a sample video description. Enter your desciption here using 'fiction-films.yml' in '_data' folder.
+  contrib: Creator
+  Awards:
+    - award: "- Winner - Bronze Award for Best Sample Short at Jekyll-Vfolio Awards (2018)."
+    - award: "- Official Selection - Jekyll-Vfolio Festival (2017)."
+      awardinfo: Nominated for Best Short Film.
+  videotype: vimeo
+  videoID: 347893439

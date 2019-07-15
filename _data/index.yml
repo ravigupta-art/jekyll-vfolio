@@ -1,0 +1,20 @@
+# Please follow the identation and spacing in this document. The text need to yaml format. For more info follow this link: https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial.html
+# and this link: https://jekyllrb.com/docs/datafiles/
+title: About Jekyll-Vfolio
+para1: Jekyll-vfolio is a <a href="https://jekyllrb.com/">Jekyll</a> theme for showcasing a film/video/cinematography portfolio. Aim of the jekyll-vfolio theme is to make it simple for creators to easily showcase their work. Jekyll helps in providing this functionality to creators with Markdown syntax rather than HTML. At places theme also uses the HTML syntax, so the theme is a mix and match of HTML and Markdown.
+para2: The Jekyll-Vfolio theme is developed by <a href="https://www.ravigupta.me/">Ravi Gupta</a>. Ravi Gupta is a visual storyteller. Ravi has taken on the roles of a storyboard artist, character designer, motion graphic designer, comic book artist and an art director in the field of Visual design. He also has interest in Programming and Web technologies. You may support Ravi Gupta by buying comics created by him.<br>You can buy the comics from Ravi Gupta here -<br> <a href="https://www.ravigupta.me/shop.html">www.ravigupta.me/shop.html</a>.<br>
+# If you do not need Credits for this page, just keep the values empty. You may also simply delete the lines that follows.
+credittitle: CREDITS&#58;
+creditlinks:
+  - linkinfo: Static Site Generator
+    linkaddress: "https://jekyllrb.com/"
+    linktext: Jekyll
+  - linkinfo: Framework
+    linkaddress: "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
+    linktext: Bootstrap v4.3.1
+  - linkinfo: Fonts
+    linkaddress: "https://fonts.google.com/"
+    linktext: Google Fonts
+  - linkinfo: Icons
+    linkaddress: "https://fontawesome.com/"
+    linktext: Font Awesome
