@@ -14,4 +14,4 @@ Choosing between a Jekyll or HTML & CSS site is simple. But, it can become diffi
 - **Is your site extremely simple with few pages?**
   <br>- If your site is extremely simple with just few pages, a simple HTML & CSS site should be the option to choose.
 
-[ << back to all posts](/blog)
+[ << back to all posts]({{ site.baseurl }/blog)
