@@ -46,4 +46,4 @@ summary: Tutorial for hosting Hello World site using gh-pages.
 
   ![Hello World hosted]({{ site.baseurl }}/img/HelloWorld_Tutorial/helloworld_hosted.png)
 
-[ << back to all posts](/blog)
+[ << back to all posts]({{ site.baseurl }}/blog)
