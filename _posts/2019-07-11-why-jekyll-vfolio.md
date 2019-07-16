@@ -3,7 +3,7 @@ layout: post
 title: Why Jekyll-Vfolio?
 summary: Jekyll-Vfolio is a jekyll theme that is suitable for creators making films and videos. It makes...
 ---
-Jekyll-Vfolio is a jekyll theme that is suitable for creators making films and videos. It makes easier to update videos and films without the need of a database. [Jekyll makes it possiple to do so.](/2019/07/10/jekyll-static-site-generator.html)
+Jekyll-Vfolio is a jekyll theme that is suitable for creators making films and videos. It makes easier to update videos and films without the need of a database. [Jekyll makes it possiple to do so.]({{ site.baseurl }}/2019/07/10/jekyll-static-site-generator.html)
 
 Jekyll-Vfolio makes it easier to add new videos, update video URLs, add/edit metadata about the video using Yaml files in `_data` folder.
 
