@@ -3,7 +3,7 @@ layout: post
 title: About the Author
 summary: Jekyll-Vfolio theme is created by Ravi Gupta. He is an Art director and a Designer by...
 ---
-Jekyll-Vfolio theme is create by Ravi Gupta. He is an Art director and a Designer by profession. He is also interested in Web Designing and Computers in general. If you wish to see his Visual Design works, you may visit the portfolio section on his website [https://www.ravigupta.me/](https://www.ravigupta.me/)
+Jekyll-Vfolio theme is created by Ravi Gupta. He is an Art director and a Designer by profession. He is also interested in Web Designing and Computers in general. If you wish to see his Visual Design works, you may visit the portfolio section on his website [https://www.ravigupta.me/](https://www.ravigupta.me/)
 
 > ##### Other places you may find about Ravi Gupta:
 >
