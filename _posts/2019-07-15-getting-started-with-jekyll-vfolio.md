@@ -16,7 +16,7 @@ summary: Learn how to use Jekyll-Vfolio theme and modify it as per your needs.
 ## Setting up jekyll-vfolio on GitHub pages to host your site.
 1. If you don't have a GitHub account, create one.
 2. Fork this repository and create a branch named gh-pages, then start editing the `_config.yml` file. Delete the `README.md` and `favicon.ico` files. You may add your own `favicon.ico` file as well.
-3. To start learning about the GitHub Pages you may visit our simple ['Hello-World'](/2019/07/03/hello-world-github-pages.html) tutorial.
+3. To start learning about the GitHub Pages you may visit our simple ['Hello-World']({{ site.baseurl }}/2019/07/03/hello-world-github-pages.html) tutorial.
 
 ### Setting up the Homepage
 - `index.md` file is the one which is use to serve the Homepage.
