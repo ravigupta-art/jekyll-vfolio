@@ -4,4 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{{ site.title }} | {{ page.title }}</title>
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include google-analytics.html %}
+  {% endif %}
 </head>
