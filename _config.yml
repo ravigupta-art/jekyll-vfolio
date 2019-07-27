@@ -24,7 +24,7 @@ baseurl: /jekyll-vfolio
 # baseurl: /jekyll-vfolio
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: #UA—XXXXXXXX-X  
 
 
 # Build settings
