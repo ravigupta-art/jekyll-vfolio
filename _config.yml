@@ -23,6 +23,10 @@ baseurl: /
 # For example -
 # baseurl: /jekyll-vfolio
 
+# Google Analytics
+google_analytics: #UA—XXXXXXXX-X  
+
+
 # Build settings
 sass:
   sass_dir: css
