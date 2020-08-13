@@ -1,5 +1,8 @@
+[DEMO](https://ravigupta-art.github.io/jekyll-vfolio/)
+======================================================
 # jekyll-vfolio
 Jekyll-Vfolio is a jekyll theme for showcasing a film/video/cinematography portfolio.
+![screenshot of the theme](/img/Screenshot01-jekyll-vfolio.png)
 ## Installing for local development
 
 1. Install Jekyll on your machine. You can install Jekyll using this guide: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
@@ -43,4 +46,8 @@ The `'contact.md'`file controls the contact page. Find the following code in fil
 <p class="text-center">Please, contact me at <a href="mailto:maildesk.ravi@gmail.com">maildesk.ravi@gmail.com</a></p>
 <img class="img-fluid center-block" src="/img/paperplane.png" aria-hidden="true" alt="">
 ```
+### Setting up Google-Analytics
+To use it simply paste your Google-Analytics tracking ID in front 'google-analytics:' key in `_config.yml` file. Rebuild the site and we will be ready to use Google-Analytics.
+
+***Note:** It would be turned off for the local-development environment. So, your browsing through pages while you are still developing and editing won't affect the metrics.*
 
